@@ -1,0 +1,933 @@
+{"error":{"message":"Invalid API method","type":"OAuthException","code":3}}
+{"error":{"message":"Invalid API method","type":"OAuthException","code":3}}
+{"error":{"message":"Invalid API method","type":"OAuthException","code":3}}
+{{Action Required - Cleanup}}
+<br />
+{{Tab/v2|Special Event|Event Shop|Title 1 = Special Event|Title 2 = Event Shop}}
+
+<div style="text-align:left; font-size:85%;">
+[[Event Shop/Sandbox|Event Shop Sandbox]]
+
+==Event Shop Information==
+War Commander puts on periodic [[Special Events]], currently at about one per month.  During these Events the player receives [[Event Experience Points|Event Experience Points (eXP)]] which should not be confused with the separate standard [[Experience Points|Experience Points (XP)]] used to raise players in [[Ranks|Rank &amp; Levels]].  The eXP can be used to Unlock and obtain [[:Category:Special Event Prize|Special Event Prizes]] which consist of special [[Portal:Units|Units]], [[Buildings]], [[:Category:Schematics|Schematics]] and [[:Category:Epic Tech|Epic Tech]] that would otherwise not be available to the Player.
+
+===''<span style="color:rgb(81,149,106);">Information Given in Event Shop</span>''===
+*Which Prizes are Available or Locked.
+*the Requirements and Cost of each Prize.
+*A Description of each Prize
+*A graphical running total of eXP still needed to obtain each Prize
+*Previously purchased ( owned ) Prizes.
+
+===<span style="color:rgb(81,149,106);">''How The Event Shop Works ''</span>===
+*<span style="color:rgb(168, 168, 75);">eXP is only valid for use during the Event in which it was earned.</span>  The eXP does not carry over from Event to Event, hence the ''"Use It or Lose"'' name for the period after an Event.
+*<span style="color:rgb(168, 168, 75);">The Shop is only accessible during and for a shot period after each Special Event.</span>  The player may use their eXP at any time during and up to 48 hours after the Event, know as the ''"Use It Or Lose It"'' period.
+*<span style="color:rgb(168, 168, 75);">The Event Shop is accessed thru the Special Event Panel.</span>  Press the "Prizes" button to open the Event Shop while inside the Players Base.
+*<span style="color:rgb(168, 168, 75);">Several new Prizes are added to the Shop each Special Event.</span>  These are usually but not always related to the theme or story of the Event.
+*<span style="color:rgb(168, 168, 75);">Most Previous Event Prizes are available in the Shop.</span>  See [[Event_Shop#Past_Event_Prize_Availability|Past Event Prize Availability below]] for more information.
+*<span style="color:rgb(168, 168, 75);">Prizes have Requirements that must be met before they can be Unlocked.</span>  Some require the player to have a [[Tech Center]] of a certain level. Others require that a certain other common Unit or Special Event Prize to be Unlocked first.  If the player is lacking in a requirement it will be displayed over that Prize.
+
+==Event Prize Information==
+The Event Shop offers sever different type of Prizes in several Categories, which may have different Rules of Availability that govern if and when they will be offered as a Previous Event Prize following their introductory Event.
+
+===<span style="color:rgb(81,149,106);">''Event Prize Categories ''</span>===
+*<span style="color:rgb(168, 168, 75);">Standard Prize -</span> Any Item ( [[Portal:Units|Unit]], [[Buildings|Building]], [[:Category:Turret|Turret]], [[:Category:Schematics|Schematic or]] [[:Category:Epic Tech|Epic Tech]] ) that is offered in exchange for [[Event Experience Points|Event Experience Points (eXP)]].
+*<span style="color:rgb(168, 168, 75);">Wave Checkpoint Prize (WCP) -</span> Any Item offered for the successful completion of a specified Wave.
+*<span style="color:rgb(168, 168, 75);">Event Exclusive -</span> Any Item stated or implied to be offered only for a single Event. These may be offered either a Standard or Wave Checkpoint Prize. Examples: The [[Elite Hellstorm]] & the [[Cerberus 2 Trophy]].
+**<span style="color:rgb(168, 168, 75);">Top Player Exclusive Prize -</span> A Event Exclusive prize offered for a single [[Special Event]] and awarded to only a very limited number of Players scoring the highest [[Event Experience Points|eXP]] for that specific Event. Examples:
+***The [[Zombifier]] - awarded to the Top 3,000 Players during [[Operation: Undead Rising]]
+***The [[R.U.B.I. Statue]] - awarded to the top 20 players during [[Operation: Red Sky]].
+
+===<span style="color:rgb(81,149,106);">''Event Prize Types ''</span>===
+*<span style="color:rgb(168, 168, 75);">Units -</span> These can be Standard or Elite units. Example: [[Hellstorm]], [[Elite Hellfire]] and [[Gladiator]].
+*<span style="color:rgb(168, 168, 75);">Units ( [[:Category:Unique Units|Unique]] ) -</span> These are special Units that come with special rules like the [[Titan]], [[Widowmaker]] and [[Viper]].
+*<span style="color:rgb(168, 168, 75);">Buildings -</span> So far only two are offered - the [[Drone Silo]] & [[Rocket Silo]].
+*<span style="color:rgb(168, 168, 75);">Turrets -</span> Like the [[Plasma Turret|Plasma Cannon Turret]].
+*<span style="color:rgb(168, 168, 75);">Schematics -</span> Like the [[Warhawk/Schematic|Warhawk]], [[Hellfire/Schematic|Hellfire]] or [[Valkyrie Schematic|Valkyrie Schematic.]]
+*<span style="color:rgb(168, 168, 75);">Schematic Components</span> - Add additional components to existing [[:Category:Schematics|Schematics]]. There are 2 types:
+**<span style="color:rgb(168, 168, 75);">Epic Tech -</span> Special Thorium Tech, usually related to only one Schematic. Examples: [[Wingman]] - [[Warhawk Schematic]], the [[Warhead Launcher]] - [[Mega Tank Schematic]] and [[Laser Cannons]] exclusively for the [[Hercules Schematic]].
+**<span style="color:rgb(168, 168, 75);">Thorium Tech -</span> Schematic Components that are not [[:Category:Epic Tech|Epic Tech]], like [[Ionized Armor]].
+*<span style="color:rgb(168, 168, 75);">War Trophy -</span> Special Buildings for a Player's Base that highlight that Players Level of Achievement in a specific [[Special Event]].
+
+===<span style="color:rgb(81,149,106);">''Past Event Prize Availability ''</span>===
+Past Prizes are place in a [[Event Hold Period]] following their introductory[[ Special Event]]. The length of this Hold Period can be determined by its original Prize Type and/or Prize Category.
+*<span style="color:rgb(168, 168, 75);">Standard Prizes -</span> have a a <span style="color:rgb(72,209,204);">1 Event Hold Period</span> following their Introduction Event prior to being released as a Past Event Prize in the Event Shop.
+**''<small><span style="color:rgb(210,180,140);">Example: Event #20 - Prize Introduced / Event #21 - Prize On Hold & Not available / Event #22 Prize released as Past Prize.</span></small>''
+*<span style="color:rgb(168, 168, 75);">Standard Prizes ( Unique ) -</span> have a a <span style="color:rgb(72,209,204);">2 Event Hold Period</span> following their Introduction Event prior to being released as a Past Event Prize in the Event Shop.
+**''<small><span style="color:rgb(210,180,140);">Example: Event #20 - Prize Introduced / Event #21 & #22 - Prize On Hold & Not available / Event #23 - Prize released as Past Prize.</span></small>''
+*<span style="color:rgb(168, 168, 75);">Wave Checkpoint Prizes -</span> Standard & Unique Units, Schematics or Epic Tech items that were introduced as a Wave Checkpoint Prize will be released again as a Past Event Prize following its introduction Event in one of two ways:
+**A [[Event Experience Points|eXP]] Prize - Such as the [[Stinger Schematic]] which was introduced in [[Operation: Floodgate]], made unavailable for one event then reintroduced with a eXP price tag for [[Operation: Cerberus]].
+**A [[Wave Checkpoint Prize]] - Such as the [[Laser Cannons]] which was introduced in [[Operation: Floodgate 2]], made unavailable for one event then reintroduced again as a Wave Checkpoint Prize for [[Operation: Cerberus 2]].
+*<span style="color:rgb(168, 168, 75);">Event Exclusive Prizes -</span> As the name implies these are will not be made available as a Past Event Prize.
+*<span style="color:rgb(168, 168, 75);">Epic Tech Prizes -</span> The Past Event Prize availability for Epic Tech Components seems to be linked to the Prize Category it was released as.
+**<span style="color:rgb(168, 168, 75);">Epic Tech - Standard Prizes -</span> Epic Tech that was originally offered for a eXP amount follow the same <span style="color:rgb(72,209,204);">1 Event Hold Period</span> as other Standard Prizes.
+**<span style="color:rgb(168, 168, 75);">Epic Tech - Wave Checkpoint Prize -</span> Epic Tech that was originally offered as a [[Wave Checkpoint Prize]] has never been reintroduced to the Event Shop following their introductory Special Event.<br />'''<small>( See [[Event_Shop#Additional Info|Additional Info]] section for the [[Laser Cannons]] Exclusion to this rule ).</small>'''
+: '''<small><span style="color:rgb(0,255,255);">Note :</span> Some of these Availability Rules are explicitly stated by [https://www.kixeye.com/ Kixeye] and some have been derived from observation.</small>'''
+
+===<span style="color:rgb(81,149,106);">''Past Event Prize Sales ''</span>===
+*<span style="color:rgb(168, 168, 75);">eXP Sale -</span> Past Event Prizes offered at a discounted eXP amount for one Event.
+*<span style="color:rgb(168, 168, 75);">Last Chance Sale -</span> Past Event Prizes offered either at a Discounted XP Amount ( Standard Items ) or at a Increased XP Amount ( Unique Units ) for one Event following which they will be [[:Category:Unavailable|Removed]] from the Event Shop.
+*<span style="color:rgb(168, 168, 75);">Wave Checkpoint Sale -</span> Past Event Prizes that were introduced as Standard ( eXP Prize ) offered as a Wave Checkpoint Prize for one Event.
+
+===<span style="color:rgb(81,149,106);">''Removed Event Prizes ''</span>===
+Some Past Event Prizes may be completely removed from the Event Shop making them unavailable to any Player who has not previously Unlocked it.  This however does not remove the Item from the game and it may still be in use by both Players and Rogue Factions. 
+
+<span style="color:rgb(168, 168, 75);">A Full List of Past Event Prizes that have been REMOVED from the Event Shop may be found here:</span> [[:Category:Unavailable|UNAVAILABLE ]]
+
+==Current Event Shop Prizes==
+The following tables only reflects Prizes from Past Events.  Any New Prizes from a Current Event will not be added until the Events conclusion.
+<br /><br />
+===<span style="color:rgb(81,149,106);">''Prizes - Available ''</span>===
+----
+'''<small><span style="color:rgb(0,255,255);">NOTE: </span><span style="color:rgb(255,112,56);">The tables below do not reflect NEW PRIZES or if a Prize is on HOLD for the current or future Events.</span><br /><span style="color:rgb(0,255,255);">NOTE : </span><span style="color:rgb(255,112,56);">The tables below do not reflect the SALE PRICE of an Item for any current of past Special Event.</span></small>'''
+<br />
+[[File:Key-EventExclusive.png]] Indicates Items that are LAST CHANCE and will only be available until February 2015.
+</div>
+
+{| border="0" cellpadding="1" cellspacing="1" class="wikitable"
+| colspan="2" style="text-align: center;  color:tan; background: rgb(50,30,37);"|'''AIRCRAFT'''
+| colspan="3" style="text-align: center; border-color: rgb(16,16,16); background: rgb(16,16,16);"|
+|-
+| colspan="2" style="text-align: center; color: White; background:rgb(41,58,65);"|'''Prize'''
+| style="text-align: center; color: White; background: rgb(41,58,65);"|'''Experience Required'''
+| style="text-align: center; color: White; background: rgb(41,58,65);"|'''Unlocking Requirements'''
+| style="text-align: center; color: White; background: rgb(41,58,65);"|'''Introduction Event'''
+|-
+| style="text-align: left; width: 200px; background: rgb(24,27,30);"|'''[[Banshee]]'''
+| style="text-align: center; color: Tan;"|[[File:Banshee-MainPic.png|24px]]
+| style="text-align: center; color: Tan;"|60,000 xp
+| style="text-align: center; color: Tan;"|'''[[Thunderbolt]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Cerberus|Cerberus]]'''
+|-
+| style="text-align: left; width: 200px; background: rgb(24,27,30);"|'''[[Hellstorm]]'''
+| style="text-align: center; color: Tan;"|[[File:Hellstorm-Unlocked.png|24px]]
+| style="text-align: center; background: rgb(39,27,30); color: Tan;"|25,000 xp
+| style="text-align: center; color: Tan;"|'''[[Raptor]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Hellstorm|Hellstorm]]'''
+|-
+| style="text-align: left; background: rgb(24,27,30);"|'''[[Reaper Drone]]'''
+| style="text-align: center; color: Tan;"|[[File:ReaperDrone-Unlocked.png|24px]]
+| style="text-align: center; background: rgb(39,27,30); color: Tan;"|15,000 xp
+| style="text-align: center; color: Tan;"|'''[[Cobra]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Red Swarm|Red Swarm]]'''
+|-
+| style="text-align: left; background: rgb(24,27,30);"|'''[[Warhawk]]'''
+| style="text-align: center; color: Tan;"|[[File:Warhawk-Unlocked.png|24px]]
+| style="text-align: center; background: rgb(39,27,30); color: Tan;"|19,250 xp
+| style="text-align: center; color: Tan;"|'''[[Thunderbolt]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation:Warhawk|Warhawk]]'''
+|-
+| style="text-align: left;color: rgb(218,144,0); background: rgb(24,27,30);"| '''[[Elite Warhawk|Warhawk]]&nbsp;-&nbsp;Elite'''
+| style="text-align: center;color: Tan;"|[[File:Warhawk-Elite-Unlocked.png|24px]]
+| style="text-align: center; background: rgb(39,27,30); color: Tan;"|19,250 xp
+| style="text-align: center;color: Tan;"|'''[[Warhawk]]'''
+| style="text-align: center;color: Tan;"|'''[[Operation:Warhawk|Warhawk]]'''
+|}
+{| border="0" cellpadding="1" cellspacing="1" class="wikitable" style="width: 660px;"
+| colspan="2" style="text-align: center; color:tan; background: rgb(50,30,37);"|'''INFANTRY'''
+| colspan="3" style="text-align: center; border-color: rgb(16,16,16); background: rgb(16,16,16);"|
+|-
+| colspan="2" style="text-align: center; color: White; background:rgb(41,58,65);"|'''Prize'''
+| style="text-align: center; color: White; background: rgb(41,58,65);"|'''Experience Required'''
+| style="text-align: center; color: White; background: rgb(41,58,65);"|'''Unlocking Requirements'''
+| style="text-align: center; color: White; background: rgb(41,58,65);"|'''Introduction Event'''
+|-
+| style="text-align: left; width: 200px; background: rgb(24,27,30);"|'''[[Attack Dog]]'''
+| style="text-align: center; color: Tan;"|[[File:AttackDog-Unlocked.png|24px]]
+| style="text-align: center; background: rgb(39,27,30); color: Tan;"|1,500 xp
+| style="text-align: center; color: Tan;"|'''[[Academy|Flamethrower]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation:Warhawk|Warhawk]]'''
+|-
+| style="text-align: left; background: rgb(24,27,30);"|'''[[Gladiator]]'''
+| style="text-align: center; color: Tan;"|[[File:Gladiator-Unlocked.jpg|24px]]
+| style="text-align: center; background: rgb(39,27,30); color: Tan;"|10,000 xp
+| style="text-align: center; color: Tan;"|'''[[Sniper]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Front Line|Front Line]]'''
+|-
+| style="text-align: left; color: rgb(218,144,0); background: rgb(24,27,30);"|'''[[Elite Gladiator|Gladiator]] - Elite'''
+| style="text-align: center;color: Tan;"|[[File:GladiatorElite-Unlocked.jpg|24px]]
+| style="text-align: center; background: rgb(39,27,30); color: Tan;"|30,000 xp
+| style="text-align: center;color: Tan;"|'''[[Gladiator]]'''
+| style="text-align: center;color: Tan;"|'''[[Operation: Front Line|Front Line]]'''
+|-
+| style="text-align: left; color: rgb(218,144,0); background: rgb(24,27,30);"| '''[[Elite Heavy Gunner|Heavy&nbsp;Gunner]]&nbsp;-&nbsp;Elite'''
+| style="text-align: center; color: Tan;"|[[File:HeavyGunnerElite-Unlock.png|24px]]
+| style="text-align: center; background: rgb(39,27,30); color: Tan;"|5,000 xp
+| style="text-align: center; color: Tan;"|'''[[Heavy Gunner]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Front Line|Front Line]]'''
+|-
+| style="text-align: left; color: rgb(218,144,0); background: rgb(24,27,30);"|'''[[Elite Mortar Team|Mortar Team]] - Elite'''
+| style="text-align: center; color: Tan;"|[[File:MortarTeam-Elite-MainPic.png|24px]]
+| style="text-align: center; background: rgb(39,27,30); color: Tan;"| 6,500 xp
+| style="text-align: center; color: Tan;"|'''[[Mortar Team]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Floodgate 2|Floodgate 2]]'''
+|-
+| style="text-align: left; color: rgb(218,144,0); background: rgb(24,27,30);"|'''[[Elite Rifleman|Rifleman]] - Elite'''
+| style="text-align: center; color: Tan;"|[[File:Riflemn-Elite-Unlocked.png|24px]]
+| style="text-align: center; background: rgb(39,27,30); color: Tan;"|2,500 xp
+| style="text-align: center; color: Tan;"|'''[[Rifleman]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Crossfire|Crossfire]]'''
+|-
+| style="text-align: left; color: rgb(218,144,0); background: rgb(24,27,30);"|'''[[Shock Trooper]]'''
+| style="text-align: center; color: Tan;"|[[File:ShockTrooper-Unlocked.png|24px]]
+| style="text-align: center; background: rgb(39,27,30); color: Tan;"|7,500 xp
+| style="text-align: center; color: Tan;"|'''[[Sniper]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Shockwave|Shockwave]]'''
+|-
+| style="text-align: left; color: rgb(218,144,0); background: rgb(24,27,30);"|'''[[Stinger]]'''
+| style="text-align: center; color: Tan;"|[[File:Stinger-Unlocked.png|24px]]
+| style="text-align: center; background: rgb(39,27,30); color: Tan;"|9,500 xp
+| style="text-align: center; color: Tan;"|'''[[Sniper]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Hellstorm|Hellstorm]]'''
+|-
+| style="text-align: left; color: rgb(218,144,0); background: rgb(24,27,30);"|'''[[Valkyrie]]'''
+| style="text-align: center; color: Tan;"|[[File:Valkyrie-Unlocked.png|24px]]
+| style="text-align: center; background: rgb(39,27,30); color: Tan;"|15,500 xp
+| style="text-align: center; color: Tan;"|'''[[Academy|Level 4 Academy ]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Archangel|Archangel]]'''
+|-
+| style="text-align: left; color: rgb(218,144,0); background: rgb(24,27,30);"|'''[[Elite Valkyrie|Valkyrie]] - Elite'''
+| style="text-align: center; color: Tan;"|[[File:Valkyrie-Elite-Unlocked.png|24px]]
+| style="text-align: center; background: rgb(39,27,30); color: Tan;"|9,500 xp
+| style="text-align: center; color: Tan;"|'''[[Valkyrie]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Archangel|Archangel]]'''
+|-
+| style="text-align: left; color: rgb(218,144,0); background: rgb(24,27,30);"|'''[[Wraith]]'''
+| style="text-align: center; color: Tan;"|[[File:Wraith-MainPic.png|24px]]
+| style="text-align: center; background: rgb(39,27,30); color: Tan;"|29,000 xp
+| style="text-align: center; color: Tan;"|'''[[Academy|Level 5 Academy ]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Iron Reign|Iron Reign]]'''
+|}
+{| border="0" cellpadding="1" cellspacing="1" class="wikitable" style="width: 660px;"
+| colspan="2" style="text-align: center; color:tan; background: rgb(50,30,37);"|'''VEHICLES'''
+| colspan="3" style="text-align: center; border-color: rgb(16,16,16); background: rgb(16,16,16);"|
+|-
+| colspan="2" style="text-align: center; color: White; background:rgb(41,58,65);"|'''Prize'''
+| style="text-align: center; color: White; background: rgb(41,58,65);"|'''Experience Required'''
+| style="text-align: center; color: White; background: rgb(41,58,65);"|'''Unlocking Requirements'''
+| style="text-align: center; color: White; background: rgb(41,58,65);"|'''Introduction Event'''
+|-
+| style="text-align: left; width: 200px; background: rgb(24,27,30);"|'''[[Enforcer]]'''
+| style="text-align: center; color: Tan;"|[[File:Enforcer-Unlockded.png|24px]]
+| style="text-align: center; background: rgb(39,27,30); color: Tan;"|35,000 xp
+| style="text-align: center; color: Tan;"|'''[[Mega Tank]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Archangel|Archangel]]'''
+|-
+| style="text-align: left; background: rgb(24,27,30);"|'''[[Flame Assault Vehicle]]'''
+| style="text-align: center; color: Tan;"|[[File:FAV-Unlock.png|24px]]
+| style="text-align: center; background: rgb(39,27,30); color: Tan;"|25,000 xp
+| style="text-align: center; color: Tan;"|'''[[Paladin]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Warlord|Warlord]]'''
+|-
+| style="text-align: left; color: rgb(218,144,0); background: rgb(24,27,30);"|'''[[Gatling Truck]]'''
+| style="text-align: center; color: Tan;"|[[File:GatlingTruck-Unlocked.png|24px]]
+| style="text-align: center; background: rgb(39,27,30); color: Tan;"| 5,000 xp
+| style="text-align: center; color: Tan;"|'''[[Razorback]]'''
+| style="text-align: center; color: Tan;"|'''[[Rogue Assault|Rogue Assult]]'''
+|-
+| style="text-align: left; color: rgb(218,144,0); background: rgb(24,27,30);"| '''[[Elite_Gatling_Truck|Gatling&nbsp;Truck]] - Elite'''
+| style="text-align: center; color: Tan;"|[[file:GatlingTruck-Elite-Unlocked.png|24px]]
+| style="text-align: center; background: rgb(39,27,30); color: Tan;"|10,000 xp
+| style="text-align: center; color: Tan;"|'''[[Gatling Truck]]'''
+| style="text-align: center; color: Tan;"|'''[https://www.kixeye.com/forum/discussion/245776/p1 06/02/12 Update]'''
+|-
+| style="text-align: left; color: rgb(218,144,0); background: rgb(24,27,30);"|'''[[Hellfire]]'''
+| style="text-align: center; color: Tan;"|[[File:Hellstorm-Unlock.png|24px]]
+| style="text-align: center; background: rgb(39,27,30); color: Tan;"|19,250 xp
+| style="text-align: center; color: Tan;"|'''[[Challenger]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation:Hellfire|Hellfire]]'''
+|-
+| style="text-align: left; color: rgb(218,144,0); background: rgb(24,27,30);"|'''[[Elite Hellfire|Hellfire]] - Elite'''
+| style="text-align: center; color: Tan;"|[[File:Hellfire-Elite-Unlock.png|24px]]
+| style="text-align: center; background: rgb(39,27,30); color: Tan;"|19,250 xp
+| style="text-align: center; color: Tan;"|'''[[Hellfire]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation:Hellfire|Hellfire]]'''
+|-
+| style="text-align: left; color: rgb(218,144,0); background: rgb(24,27,30);"|'''[[Hover Tank ]]'''
+| style="text-align: center; color: Tan;"|[[File:Hover_Tank_Unlocked2.jpg|24px]]
+| style="text-align: center; background: rgb(39,27,30); color: Tan;"|40,000 xp
+| style="text-align: center; color: Tan;"|'''[[Challenger]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Devil's Grip|Devil's Grip]]'''
+|-
+| style="text-align: left; color: rgb(218,144,0); background: rgb(24,27,30);"|'''[[Elite Humvee|Humvee]] - Elite'''
+| style="text-align: center; color: Tan;"|[[File:Humvee-Elite-Unlock.png|24px]]
+| style="text-align: center; background: rgb(39,27,30); color: Tan;"|8,000 xp
+| style="text-align: center; color: Tan;"|'''[[Humvee]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Crossfire|Crossfire]]'''
+|-
+| style="text-align: left; color: rgb(218,144,0); background: rgb(24,27,30);"|'''[[Laser Tank]]'''
+| style="text-align: center; color: Tan;"|[[File:LaserTank-Unlock.png|24px]]
+| style="text-align: center; background: rgb(39,27,30); color: Tan;"|7,000 xp
+| style="text-align: center; color: Tan;"|'''[[Paladin]]'''
+| style="text-align: center; color: Tan;"|'''[[Red Storm]]'''
+|-
+| style="text-align: left; color: rgb(218,144,0); background: rgb(24,27,30);"|'''[[Elite Laser Tank|Laser Tank]] - Elite'''
+| style="text-align: center; color: Tan;"|[[File:LaserTank-Elite-Unlock.png|24px]]
+| style="text-align: center; background: rgb(39,27,30); color: Tan;"|12,000 xp
+| style="text-align: center; color: Tan;"|'''[[Laser Tank]]'''
+| style="text-align: center; color: Tan;"|'''[https://www.kixeye.com/forum/discussion/245776/p1 06/02/12 Update]'''
+|-
+| style="text-align: left; color: rgb(218,144,0); background: rgb(24,27,30);"|'''[[Elite Mega Tank|Mega Tank]] - Elite'''
+| style="text-align: center; color: Tan;"|[[File:MegaTankElite-MainPic.jpg|24px]]
+| style="text-align: center; background: rgb(39,27,30); color: Tan;"|34,000 xp
+| style="text-align: center; color: Tan;"|'''[[Mega Tank]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Crossfire|Crossfire]]'''
+|-
+| style="text-align: left; color: rgb(218,144,0); background: rgb(24,27,30);"|'''[[Elite Razorback|Razorback]] - Elite'''
+| style="text-align: center; color: Tan;"|[[File:Razorback-Elite-Unlocked.png|24px]]
+| style="text-align: center; background: rgb(39,27,30); color: Tan;"|10,000 xp
+| style="text-align: center; color: Tan;"|'''[[Razorback]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Halcyon|Halcyon]]'''
+|-
+| style="text-align: left; color: rgb(218,144,0); background: rgb(24,27,30);"|'''[[Elite Rhino|Rhino]] - Elite'''
+| style="text-align: center; color: Tan;"|[[File:Rhino-Elite-Unlocked.png|24px]]
+| style="text-align: center; background: rgb(39,27,30); color: Tan;"|15,000 xp
+| style="text-align: center; color: Tan;"|'''[[Rhino]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Crossfire|Crossfire]]'''
+|-
+| style="text-align: left; color: rgb(218,144,0); background: rgb(24,27,30);"|'''[[Shock Tank]]'''
+| style="text-align: center; color: Tan;"|[[File:ShockTank-Unlocked.png|24px]]
+| style="text-align: center; background: rgb(39,27,30); color: Tan;"|15,000 xp
+| style="text-align: center; color: Tan;"|'''[[Paladin]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Shockwave|Shockwave]]'''
+|-
+| style="text-align: left; color: rgb(218,144,0); background: rgb(24,27,30);"|'''[[Vanquisher]]'''
+| style="text-align: center; color: Tan;"|[[File:Vanquisher-MainPic.png|24px]]
+| style="text-align: center; background: rgb(39,27,30); color: Tan;"|35,000 xp
+| style="text-align: center; color: Tan;"|'''[[Mega Tank]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Floodgate 2|Floodgate 2]]'''
+|-
+| style="text-align: left; color: rgb(218,144,0); background: rgb(24,27,30);"|'''[[Elite Vanquisher|Vanquisher]] - Elite'''
+| style="text-align: center; color: Tan;"|[[File:Vanquisher-Elite-MainPic.png|24px]]
+| style="text-align: center; background: rgb(39,27,30); color: Tan;"|50,000 xp
+| style="text-align: center; color: Tan;"|'''[[Vanquisher ]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Floodgate 2|Floodgate 2]]'''
+|}
+{| border="0" cellpadding="1" cellspacing="1" class="wikitable" style="width: 660px;"
+| colspan="2" style="text-align: center; color:tan;background: rgb(50,30,37);"|'''MERCENARY MECHS'''
+| colspan="3" style="text-align: center; border-color: rgb(16,16,16); background: rgb(16,16,16);"|
+|-
+| colspan="2" style="text-align: center; color: White; background:rgb(41,58,65);"|'''Prize'''
+| style="text-align: center; color: White; background: rgb(41,58,65);"|'''Experience Required'''
+| style="text-align: center; color: White; background: rgb(41,58,65);"|'''Unlocking Requirements'''
+| style="text-align: center; color: White; background: rgb(41,58,65);"|'''Introduction Event'''
+|-
+| style="text-align: left;  width: 200px; background: rgb(24,27,30);"|'''[[Marauder]]'''
+| style="text-align: center; color: Tan;"|[[File:Marauder-MainPic.png|24px]]
+| style="text-align: center; background: rgb(39,27,30); color: Tan;"|1,500 xp
+| style="text-align: center; color: Tan;"|'''Level 1 [[Tech Center]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Iron March|Iron March]]'''
+|-
+| style="text-align: left;  width: 200px; color: rgb(218,144,0); background: rgb(24,27,30);"|'''[[Elite Marauder|Marauder ]]- Elite'''
+| style="text-align: center; color: Tan;"|[[File:Marauder-Elite-MainPic.png|24px]]
+| style="text-align: center; background: rgb(39,27,30); color: Tan;"|7,500 xp
+| style="text-align: center; color: Tan;"|'''[[Elite Marauder|Marauder]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Iron March|Iron March]]'''
+|-
+| style="text-align: left; background: rgb(24,27,30);"|'''[[Striker]]'''
+| style="text-align: center; color: Tan;"|[[File:Stiker-MainPic.png|24px]]
+| style="text-align: center; background: rgb(39,27,30); color: Tan;"|35,000 xp
+| style="text-align: center; color: Tan;"|'''[[Wrecker]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Iron March|Iron March]]'''
+|-
+| style="text-align: left; color: rgb(218,144,0); background: rgb(24,27,30);"|'''[[Elite Striker|Striker]] - Elite'''
+| style="text-align: center; color: Tan;"|[[File:2014-07-31_130032.jpg|24px]]
+| style="text-align: center; background: rgb(39,27,30); color: Tan;"|50,000 xp
+| style="text-align: center; color: Tan;"|'''[[Striker]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Iron March|Iron March]]'''
+|-
+| style="text-align: left; color: rgb(218,144,0); background: rgb(24,27,30);"|'''[[Wrecker]]'''
+| style="text-align: center; color: Tan;"|[[File:Wrecker-MainPic.png|24px]]
+| style="text-align: center; background: rgb(39,27,30); color: Tan;"|14,500 xp
+| style="text-align: center; color: Tan;"|'''Level 1 [[Tech Center]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Iron March|Iron March]]'''
+|-
+| style="text-align: left; color: rgb(218,144,0); background: rgb(24,27,30);"|'''[[Elite Wrecker|Wrecker ]]- Elite'''
+| style="text-align: center; color: Tan;"|[[File:Wrecker-Elite-MainPic.png|24px]]
+| style="text-align: center; background: rgb(39,27,30); color: Tan;"|35,000 xp
+| style="text-align: center; color: Tan;"|'''[[Wrecker]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Iron March|Iron March]]'''
+|}
+{| border="0" cellpadding="1" cellspacing="1" class="wikitable" style="width: 660px;"
+| colspan="2" style="text-align: center; color:tan;background: rgb(50,30,37);"|'''SCHEMATICS'''
+| colspan="3" style="text-align: center; border-color: rgb(16,16,16); background: rgb(16,16,16);"|
+|-
+| colspan="2" style="text-align: center; color: White; background:rgb(41,58,65);"|'''Prize'''
+| style="text-align: center; color: White; background: rgb(41,58,65);"|'''Experience Required'''
+| style="text-align: center; color: White; background: rgb(41,58,65);"|'''Unlocking Requirements'''
+| style="text-align: center; color: White; background: rgb(41,58,65);"|'''Introduction Event'''
+|-
+| style="text-align: left;  width: 200px; background: rgb(24,27,30);"|'''[[Banshee Schematic]]'''
+| style="text-align: center; color: Tan;"|[[File:Banshee-Schematic-MainPic.png|24px]]
+| style="text-align: center; color: Tan;"|40,000 xp
+| style="text-align: center; color: Tan;"|'''[[Banshee]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Cerberus|Cerberus]]'''
+|-
+| style="text-align: left;  width: 200px; background: rgb(24,27,30);"|'''[[Flame Assault Vehicle Schematic|FAV Schematic]]'''
+| style="text-align: center; color: Tan;"|[[File:FAV-Schematic-Unlocked.png|24px]]
+| style="text-align: center; background: rgb(39,27,30); color: Tan;"|34,000 xp
+| style="text-align: center; color: Tan;"|'''[[Flame Assault Vehicle]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Undead Rising|Undead Rising]]'''
+|-
+| style="text-align: left; background: rgb(24,27,30);"|'''[[Gatling Truck Schematic|Gatling Truck Schmatic]]'''
+| style="text-align: center; color: Tan;"|[[File:GatlingSchematic-Unlocked.png|24px]]
+| style="text-align: center; background: rgb(39,27,30); color: Tan;"|34,000 xp
+| style="text-align: center; color: Tan;"|'''[[Gatling Truck]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Halcyon|Halcyon]]'''
+|-
+| style="text-align: left; color: rgb(218,144,0); background: rgb(24,27,30);"|'''[[Hellfire Schematic]]'''
+| style="text-align: center; color: Tan;"|[[File:Hellfire-Schemaitic-Unlocked.png|24px]]
+| style="text-align: center; background: rgb(39,27,30); color: Tan;"|30,000 xp
+| style="text-align: center; color: Tan;"|'''[[Hellfire]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Deadpoint2|Deadpoint&nbsp;2]]'''
+|-
+| style="text-align: left; color: rgb(218,144,0); background: rgb(24,27,30);"|'''[[Hellstorm Schematic|Hellstorm Schematic ]]'''
+| style="text-align: center; color: Tan;"|[[File:HellstormSchematic(UnlockedMainPic).png|24px]]
+| style="text-align: center; background: rgb(39,27,30); color: Tan;"|35,000 xp
+| style="text-align: center; color: Tan;"|'''[[Hellstorm]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Hellstorm 2|Hellstorm 2]]'''
+|-
+| style="text-align: left; color: rgb(218,144,0); background: rgb(24,27,30);"|'''[[Laser Tank Schematic]]'''
+| style="text-align: center; color: Tan;"|[[File:LaserTankSchematic-MainPic.png|24px]]
+| style="text-align: center; background: rgb(39,27,30); color: Tan;"|25,000 xp
+| style="text-align: center; color: Tan;"|'''[[Laser Tank]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Deadpoint|Deadpoint]]'''
+|-
+| style="text-align: left; color: rgb(218,144,0); background: rgb(24,27,30);"| '''[[Reaper Drone Schematic|Reaper&nbsp;Drone&nbsp;Schematic]]'''
+| style="text-align: center; color: Tan;"|[[File:ReaperDroneSchematic-MainPic.png|24px]]
+| style="text-align: center; background: rgb(39,27,30); color: Tan;"|30,000 xp
+| style="text-align: center; color: Tan;"|'''[[Reaper Drone]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Floodgate 2|Floodgate 2]]'''
+|-
+| style="text-align: left; color: rgb(218,144,0); background: rgb(24,27,30);"|'''[[Stinger Schematic]]'''
+| style="text-align: center; color: Tan;"|[[File:StingerSchematic-Unlocked.png|24px]]
+| style="text-align: center; background: rgb(39,27,30); color: Tan;"|30,000 xp
+| style="text-align: center; color: Tan;"|'''[[Stinger]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Floodgate|Floodgate]]'''
+|-
+| style="text-align: left; color: rgb(218,144,0); background: rgb(24,27,30);"|'''[[Valkyrie Schematic|Valkyrie Schematic ]]'''
+| style="text-align: center; color: Tan;"|[[File:ValkyrieSchematic-MainPic.png|24px]]
+| style="text-align: center; background: rgb(39,27,30); color: Tan;"|33,000 xp
+| style="text-align: center; color: Tan;"|'''[[Valkyrie]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Devil's Grip|Devil's Grip]]'''
+|-
+| style="text-align: left; color: rgb(218,144,0); background: rgb(24,27,30);"|'''[[Vanquisher Schematic]]'''
+| style="text-align: center; color: Tan;"|[[File:VanquisherSchematic-MainPic.png|24px]]
+| style="text-align: center; background: rgb(39,27,30); color: Tan;"|50,000 xp
+| style="text-align: center; color: Tan;"|'''[[Vanquisher ]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Cerberus 2|Cerberus 2]]'''
+|-
+| style="text-align: left; color: rgb(218,144,0); background: rgb(24,27,30);"|'''[[Warhawk Schematic]]'''
+| style="text-align: center; color: Tan;"|[[File:WarhawkSchematic(Unlocked).png|24px]]
+| style="text-align: center; background: rgb(39,27,30); color: Tan;"|35,000 xp
+| style="text-align: center; color: Tan;"|'''[[Warhawk]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Red Storm (2014)|Red Stom (2014)]]'''
+|}
+{| border="0" cellpadding="1" cellspacing="1" class="wikitable" style="width: 660px;"
+| colspan="2" style="text-align: center; color:tan; background: rgb(50,30,37);"|'''SCHEMATIC COMPONENTS'''
+| colspan="3" style="text-align: center; border-color: rgb(16,16,16); background: rgb(16,16,16);"|
+|-
+| colspan="2" style="text-align: center; color: White; background:rgb(41,58,65);"|'''Prize'''
+| style="text-align: center; color: White; background: rgb(41,58,65);"|'''Experience Required'''
+| style="text-align: center; color: White; background: rgb(41,58,65);"|'''Unlocking Requirements'''
+| style="text-align: center; color: White; background: rgb(41,58,65);"|'''Introduction Event'''
+|-
+| style="text-align: left; width: 200px; background: rgb(24,27,30);"|'''[[Heavy Ionized Armor]]'''
+| style="text-align: center; color: Tan;"|[[File:IonizedArmor-MainPic.png|24px]]
+| style="text-align: center; background: rgb(39,27,30); color: Tan;"| 20,000 xp
+| style="text-align: center; color: Tan;"|'''[[Workshop|Level 6 Workshop]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Deadpoint|Deadpoint]]'''
+|-
+| style="text-align: left; background: rgb(24,27,30);"|'''[[Ionized Armor]]'''
+| style="text-align: center; color: Tan;"|[[File:IonizedHeavyArmor-MainPic.png|24px]]
+| style="text-align: center; background: rgb(39,27,30); color: Tan;"|12,000 xp
+| style="text-align: center; color: Tan;"|'''[[Workshop|Level 6 Workshop]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Deadpoint|Deadpoint]]'''
+|-
+| style="text-align: left;  color: rgb(218,144,0); background: rgb(24,27,30);"|'''[[Warhead Launcher]] - Epic Tech'''
+| style="text-align: center; color: Tan;"|[[File:WarheadLauncher-Unlocked.png|24px]]
+| style="text-align: center; background: rgb(39,27,30); color: Tan;"|34,000 xp
+| style="text-align: center; color: Tan;"|'''[[Mega Tank]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Desert Recon|Desert Recon]]'''
+|}
+{| border="0" cellpadding="1" cellspacing="1" class="wikitable" style="width: 660px;"
+| colspan="2" style="text-align: center; color:tan; background: rgb(50,30,37);"|'''BUILDINGS'''
+| colspan="3" style="text-align: center; border-color: rgb(16,16,16); background: rgb(16,16,16);"|
+|-
+| colspan="2" style="text-align: center; color: White; background:rgb(41,58,65);"|'''Prize'''
+| style="text-align: center; color: White; background: rgb(41,58,65);"|'''Experience Required'''
+| style="text-align: center; color: White; background: rgb(41,58,65);"|'''Unlocking Requirements'''
+| style="text-align: center; color: White; background: rgb(41,58,65);"|'''Introduction Event'''
+|-
+| style="text-align: left; width: 200px; background: rgb(24,27,30);"|'''[[Drone Silo]]'''
+| style="text-align: center; color: Tan;"|[[file:DroneSilo-Unlocked.png|24px]]
+| style="text-align: center; color: Tan;"|12,500 xp
+| style="text-align: center; color: Tan;"|Level 3 '''[[Command Center]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Red Swarm|Red Swarm]]'''
+|-
+| style="text-align: left; background: rgb(24,27,30);"| '''[[Mercenary Camp]]'''
+| style="text-align: center; color: Tan;"|[[file:MercenaryCamp-MainPic.png|24px]]
+| style="text-align: center; background: rgb(39,27,30); color: Tan;"|12,500 xp
+| style="text-align: center; color: Tan;"|
+| style="text-align: center; color: Tan;"|'''[[Operation: Iron March|Iron March]]'''
+|-
+| style="text-align: left; background: rgb(24,27,30);"| '''[[Rocket Silo]]'''
+| style="text-align: center; color: Tan;"|[[File:RockeSilo-MainPic(Unlocked).png|24px]]
+| style="text-align: center; background: rgb(39,27,30); color: Tan;"|53,000 xp
+| style="text-align: center; color: Tan;"|
+| style="text-align: center; color: Tan;"|'''[[Operation: Floodgate|Floodgate]]'''
+|}
+{| border="0" cellpadding="1" cellspacing="1" class="wikitable" style="width: 660px;"
+| colspan="2" style="text-align: center; color:tan; background: rgb(50,30,37);"|'''TURRETS'''
+| colspan="3" style="text-align: center; border-color: rgb(16,16,16); background: rgb(16,16,16);"|
+|-
+|  colspan="2" style="text-align: center;color: White; background:rgb(41,58,65);"|'''Prize'''
+| style="text-align: center; color: White; background: rgb(41,58,65);"|'''Experience Required'''
+| style="text-align: center; color: White; background: rgb(41,58,65);"|'''Unlocking Requirements'''
+| style="text-align: center; color: White; background: rgb(41,58,65);"|'''Introduction Event'''
+|-
+| style="text-align: left;  width: 200px; background: rgb(24,27,30);"| '''[[Plasma Turret]]'''
+| style="text-align: center; color: Tan;"|[[File:PlasmaTurret-Unlocked-New(7).png|24px]]
+| style="text-align: center; color: Tan;"|22,500 xp
+| style="text-align: center; color: Tan;"|Level 6 '''[[Defense Lab]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Undead Harvest|Undead Harvest]]'''
+|}
+<br />
+
+===<span style="color:rgb(81,149,106);">''Prizes - Unavailable For Current Event''</span>===
+----
+'''<small><span style="color:rgb(0,255,255);">NOTE: </span><span style="color:rgb(255,112,56);">PRIZES ON HOLD - Some of the following Prizes are still found in the Event Shop but they are listed as " Unavailable For This Event ".</span></small>'''<br />
+<small><small><span style="color:rgb(255,112,56);"><span style="color:rgb(0,255,255);">NOTE: </span>No Official word has been given by Kixeye on whether or not prizes not on HOLD will ever again be made available in the Event Shop.</span></small>'''<span style="color:rgb(255,112,56);"><br /></span>'''</small>
+{| border="0" cellpadding="1" cellspacing="1" class="wikitable" style="width: 660px;"
+| style="text-align: center; color:tan; background: rgb(50,30,37);"|'''AIRCRAFT'''
+| colspan="3" style="text-align: center; border-color: rgb(16,16,16); background: rgb(16,16,16);"|
+|-
+| style="text-align: center; color: White; background: rgb(30,39,36);"|'''Prize'''
+| style="text-align: center; color: White; background: rgb(30,39,36);"|'''Experience Required'''
+| style="text-align: center; color: White; background: rgb(30,39,36);"|'''Unlocking Requirements'''
+| style="text-align: center; color: White; background: rgb(30,39,36);"|'''Introduction Event'''
+|-
+| style="text-align: left; width: 200px;  color: Tan; background: rgb(24,27,30);"|'''[[Chimera]] - Unique'''
+| style="text-align: center; color: Tan;"|'''<small>Wave Checkpoint Prize</small>'''
+| style="text-align: center; color: Tan;"|'''None'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Iron Lord|Iron Lord]]'''
+|}
+{| border="0" cellpadding="1" cellspacing="1" class="wikitable" style="width: 660px;"
+| style="text-align: center; color:tan; background: rgb(50,30,37);"|'''INFANTRY'''
+| colspan="3" style="text-align: center; border-color: rgb(16,16,16); background: rgb(16,16,16);"|
+|-
+| style="text-align: center; color: White; background: rgb(30,39,36);"|'''Prize'''
+| style="text-align: center; color: White; background: rgb(30,39,36);"|'''Experience Required'''
+| style="text-align: center; color: White; background: rgb(30,39,36);"|'''Unlocking Requirements'''
+| style="text-align: center; color: White; background: rgb(30,39,36);"|'''Introduction Event'''
+|-
+| style="text-align: left; width: 200px;  color: Tan; background: rgb(24,27,30);"|'''None'''
+| style="text-align: center;color: Tan;"|
+| style="text-align: center;color: Tan;"|
+| style="text-align: center;color: Tan;"|
+|}
+{| border="0" cellpadding="1" cellspacing="1" class="wikitable" style="width: 660px;"
+| style="text-align: center; color:tan; background: rgb(50,30,37);"|'''VEHICLES'''
+| colspan="3" style="text-align: center; border-color: rgb(16,16,16); background: rgb(16,16,16);"|
+|-
+| style="text-align: center;color: White; background: rgb(30,39,36);"|'''Prize'''
+| style="text-align: center;color: White; background: rgb(30,39,36);"|'''Experience Required'''
+| style="text-align: center;color: White; background: rgb(30,39,36);"|'''Unlocking Requirements'''
+| style="text-align: center;color: White; background: rgb(30,39,36);"|'''Introduction Event'''
+|-
+| style="text-align: left; width: 200px; color: Tan; background: rgb(24,27,30);"|'''[[Vanquisher Commander|Vanquisher Cmdr.]] - Unique'''
+| style="text-align: center; color: Tan;"|'''<small>Wave Checkpoint Prize</small>'''
+| style="text-align: center; color: Tan;"|'''None'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Iron Reign|Iron Reign]]'''
+|}
+{| border="0" cellpadding="1" cellspacing="1" class="wikitable" style="width: 660px;"
+| style="text-align: center; color:tan; background: rgb(50,30,37);"|'''MERCENARY MECHS'''
+| colspan="3" style="text-align: center; border-color: rgb(16,16,16); background: rgb(16,16,16);"|
+|-
+| style="text-align: center;color: White; background: rgb(30,39,36);"|'''Prize'''
+| style="text-align: center;color: White; background: rgb(30,39,36);"|'''Experience Required'''
+| style="text-align: center;color: White; background: rgb(30,39,36);"|'''Unlocking Requirements'''
+| style="text-align: center;color: White; background: rgb(30,39,36);"|'''Introduction Event'''
+|-
+| style="text-align: left; width: 200px; color: Tan; background: rgb(24,27,30);"|'''None'''
+| style="text-align: center; color: Tan;"|
+| style="text-align: center; color: Tan;"|
+| style="text-align: center; color: Tan;"|
+|}
+{| border="0" cellpadding="1" cellspacing="1" class="wikitable" style="width: 660px;"
+| style="text-align: center; color:tan; background: rgb(50,30,37);"|'''SCHEMATICS'''
+| colspan="3" style="text-align: center; border-color: rgb(16,16,16); background: rgb(16,16,16);"|
+|-
+| style="text-align: center;color: White; background: rgb(30,39,36);"|'''Prize'''
+| style="text-align: center;color: White; background: rgb(30,39,36);"|'''Experience Required'''
+| style="text-align: center;color: White; background: rgb(30,39,36);"|'''Unlocking Requirements'''
+| style="text-align: center;color: White; background: rgb(30,39,36);"|'''Introduction Event'''
+|-
+| style="text-align: left; width: 200px; color: Tan; background: rgb(24,27,30);"|'''None'''
+| style="text-align: center; color: Tan;"|
+| style="text-align: center; color: Tan;"|
+| style="text-align: center; color: Tan;"|
+|}
+{| border="0" cellpadding="1" cellspacing="1" class="wikitable" style="width: 660px;"
+| style="text-align: center; color:tan; background: rgb(50,30,37);"|'''EPIC TECH'''
+| colspan="3" style="text-align: center; border-color: rgb(16,16,16); background: rgb(16,16,16);"|
+|-
+| style="text-align: center; color: White; background: rgb(30,39,36);"|'''Prize'''
+| style="text-align: center; color: White; background: rgb(30,39,36);"|'''Experience&nbsp;Required'''
+| style="text-align: center; color: White; background: rgb(30,39,36);"|'''Unlocking&nbsp;Requirements'''
+| style="text-align: center; color: White; background: rgb(30,39,36);"|'''Introduction&nbsp;Event'''
+|-
+| style="text-align: left; width: 200px; color: Tan; background: rgb(24,27,30);"|'''[[Banshee Ablative Armor]]'''
+| style="text-align: center; color: Tan;"|'''<small>Wave Checkpoint Prize</small>'''
+| style="text-align: center; color: Tan;"|'''[[Banshee Schematic]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Iron Lord|Iron Lord]]'''
+|-
+| style="text-align: left; width: 200px; color: Tan; background: rgb(24,27,30);"|'''[[Banshee Wingman]]'''
+| style="text-align: center; color: Tan;"|'''<small>Wave Checkpoint Prize</small>'''
+| style="text-align: center; color: Tan;"|'''[[Banshee Schematic]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Cerberus|Cerberus]]'''
+|-
+| style="text-align: left; width: 200px; color: Tan; background: rgb(24,27,30);"|'''[[Behemoth Ablative Armor]]'''
+| style="text-align: center; color: Tan;"|'''<small>Wave Checkpoint Prize</small>'''
+| style="text-align: center; color: Tan;"|'''[[Behemoth Schematic]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Iron Lord|Iron Lord]]'''
+|-
+| style="text-align: left; width: 200px; color: Tan; background: rgb(24,27,30);"|'''[[Blitz Shells]]'''
+| style="text-align: center; color: Tan;"|'''<small>Wave Checkpoint Prize</small>'''
+| style="text-align: center; color: Tan;"|'''[[Reaper Drone Schematic|Reaper Drone Schematic ]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Floodgate 2|Floodgate 2]]'''
+|-
+| style="text-align: left; width: 200px; color: Tan; background: rgb(24,27,30);"|'''[[Brimstone Targeting System]]'''
+| style="text-align: center; color: Tan;"|'''<small>Wave Checkpoint Prize</small>'''
+| style="text-align: center; color: Tan;"|'''[[Hellfire Schematic]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Devil's Grip|Devil's Grip]]'''
+|-
+| style="text-align: left; width: 200px; color: Tan; background: rgb(24,27,30);"|'''[[Devastator Barrel]]'''
+| style="text-align: center; color: Tan;"|'''<small>Wave Checkpoint Prize</small>'''
+| style="text-align: center; color: Tan;"|'''<small>Schematic&nbsp;with&nbsp;Mortar Barrel&nbsp;Slot</small>'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Cerberus|Cerberus]]'''
+|-
+| style="text-align: left; width: 200px; color: Tan; background: rgb(24,27,30);"|'''[[Double Barrel Launcher ]]'''
+| style="text-align: center; color: Tan;"|'''<small>Wave Checkpoint Prize</small>'''
+| style="text-align: center; color: Tan;"|'''[[Stinger Schematic]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Floodgate|Floodgate]]'''
+|-
+| style="text-align: left; width: 200px; color: Tan; background: rgb(24,27,30);"|'''[[Dual Missile Payload]]'''
+| style="text-align: center; color: Tan;"|'''<small>Wave Checkpoint Prize</small>'''
+| style="text-align: center; color: Tan;"|'''[[Hellfire Schematic]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Devil's Grip|Devil's Grip]]'''
+|-
+| style="text-align: left; width: 200px; color: Tan; background: rgb(24,27,30);"|'''[[Gold Core Battery]]'''
+| style="text-align: center; color: Tan;"|'''<small>Wave Checkpoint Prize</small>'''
+| style="text-align: center; color: Tan;"|'''[[Laser Tank Schematic]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Floodgate|Floodgate]]'''
+|-
+| style="text-align: left; width: 200px; color: Tan; background: rgb(24,27,30);"|'''[[Guardian Plating]]'''
+| style="text-align: center; color: Tan;"|'''<small>Wave Checkpoint Prize</small>'''
+| style="text-align: center; color: Tan;"|'''[[Hercules Schematic]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Cerberus|Cerberus]]'''
+|-
+| style="text-align: left; width: 200px; color: Tan; background: rgb(24,27,30);"|'''[[Ion Cannons]]'''
+| style="text-align: center; color: Tan;"|'''<small>Wave Checkpoint Prize</small>'''
+| style="text-align: center; color: Tan;"|'''[[Hercules Schematic]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Iron Lord|Iron Lord]]'''
+|-
+| style="text-align: left; width: 200px; color: Tan; background: rgb(24,27,30);"|'''[[Laser Cannons]]'''
+| style="text-align: center; color: Tan;"|'''<small>Wave Checkpoint Prize</small>'''
+| style="text-align: center; color: Tan;"|'''[[Hercules Schematic]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Floodgate 2|Floodgate 2]]'''
+|-
+| style="text-align: left; width: 200px; color: Tan; background: rgb(24,27,30);"|'''[[Missile Barrage]]'''
+| style="text-align: center; color: Tan;"|'''<small>Wave Checkpoint Prize</small>'''
+| style="text-align: center; color: Tan;"|'''<small>[[Elite Hellstorm]] / [[Hellstorm Schematic]]</small>'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Hellstorm 2|Hellstorm 2]]'''
+|-
+| style="text-align: left; width: 200px; color: Tan; background: rgb(24,27,30);"|'''[[Optimized Assault Barrel]]'''
+| style="text-align: center; color: Tan;"|'''<small>Wave Checkpoint Prize</small>'''
+| style="text-align: center; color: Tan;"|'''<small>Schematic&nbsp;with&nbsp;Machine&nbsp;Gun&nbsp;Slot</small>'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Floodgate|Floodgate]]'''
+|-
+| style="text-align: left; width: 200px; color: Tan; background: rgb(24,27,30);"|'''[[Peacekeeper Warhead]]'''
+| style="text-align: center; color: Tan;"|'''<small>Wave Checkpoint Prize</small>'''
+| style="text-align: center; color: Tan;"|'''[[Banshee Schematic]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Cerberus|Cerberus]]'''
+|-
+| style="text-align: left; width: 200px; color: Tan; background: rgb(24,27,30);"|'''[[Proton Shield]]'''
+| style="text-align: center; color: Tan;"|'''<small>Wave Checkpoint Prize</small>'''
+| style="text-align: center; color: Tan;"|'''[[Vanquisher Schematic]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Cerberus 2|Cerberus 2]]'''
+|-
+| style="text-align: left; width: 200px; color: Tan; background: rgb(24,27,30);"|'''[[Rupture Rounds]]'''
+| style="text-align: center; color: Tan;"|'''<small>Wave Checkpoint Prize</small>'''
+| style="text-align: center; color: Tan;"|'''[[Vanquisher Schematic]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Cerberus 2|Cerberus 2]]'''
+|-
+| style="text-align: left; width: 200px; color: Tan; background: rgb(24,27,30);"|'''[[Wingman]]'''
+| style="text-align: center; color: Tan;"|'''<small>Wave Checkpoint Prize</small>'''
+| style="text-align: center; color: Tan;"|'''[[Warhawk Schematic]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Red Storm (2014)|Red Strom (2014)]]'''
+|}
+{| border="0" cellpadding="1" cellspacing="1" class="wikitable" style="width: 660px;"
+| style="text-align: center; color:tan; background: rgb(50,30,37);"|'''BUILDINGS'''
+| colspan="3" style="text-align: center; border-color: rgb(16,16,16); background: rgb(16,16,16);"|
+|-
+| style="text-align: center;color: White; background: rgb(30,39,36);"|'''Prize'''
+| style="text-align: center;color: White; background: rgb(30,39,36);"|'''Experience Required'''
+| style="text-align: center;color: White; background: rgb(30,39,36);"|'''Unlocking Requirements'''
+| style="text-align: center;color: White; background: rgb(30,39,36);"|'''Introduction Event'''
+|-
+| style="text-align: left; width: 200px; color: Tan; background: rgb(24,27,30);"|'''None'''
+| style="text-align: center; color: Tan;"|
+| style="text-align: center; color: Tan;"|
+| style="text-align: center; color: Tan;"|
+|}
+<br />
+
+===<span style="color:rgb(81,149,106);">''Prizes - Removed From Event Shop''</span>===
+----
+'''<small><span style="color:rgb(0,255,255);">NOTE: </span><span style="color:rgb(255,112,56);">The following Prizes were removed from the Event Shop and are currently Unavailable. For more info see[[:Category:Unavailable| UNAVAILABLE]]. </span></small>'''
+<br />
+[[File:Key-EventExclusive.png]] Indicates Item that was intended as a Event Exclusive Prize only.
+
+{| border="0" cellpadding="1" cellspacing="1" class="wikitable" style="width: 660px;"
+| style="text-align: center; color:tan; background: rgb(50,30,37);"|'''AIRCRAFT'''
+| colspan="2" style="text-align: center; border-color: rgb(16,16,16); background: rgb(16,16,16);"|
+|-
+| style="text-align: center;  width: 220px; color: White; background: rgb(47,22,24);"|'''Prize'''
+| style="text-align: center;  width: 220px; color: White; background: rgb(47,22,24);"|'''Introduction Event'''
+| style="text-align: center;  width: 220px; color: White; background: rgb(47,22,24);"|'''Final Event'''
+|-
+| style="text-align: left; background: rgb(24,27,30); color: Tan;"|'''[[Halcyon]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Halcyon]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Floodgate]]'''
+|-
+| style="text-align: left; background: rgb(24,27,30); color: rgb(218,144,0);"|'''[[Elite Hellstorm|Hellstorm]] - Elite'''
+| style="text-align: center; background: rgb(39,27,30); color: Tan;"|'''[[Operation: Hellstorm 2]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Hellstorm 2]]'''
+|-
+| style="text-align: left; background: rgb(24,27,30); color: Tan;"|'''[[Kondor]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Red Sky]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Desert Recon]]'''
+|-
+| style="text-align: left; background: rgb(24,27,30); color: Tan;"|'''[[Spectre]] - Unique'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Deadpoint 2]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Devil's Grip]]'''
+|-
+| style="text-align: left; background: rgb(24,27,30); color: Tan;"|'''[[Slayer Drone]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Red Swarm]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Floodgate]]'''
+|-
+| style="text-align: left; background: rgb(24,27,30); color: Tan;"|'''[[Titan ]]- Unique'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Red Storm (2014)]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Floodgate 2]]'''
+|}
+{| border="0" cellpadding="1" cellspacing="1" class="wikitable" style="width: 660px;"
+| style="text-align: center; color:tan; background: rgb(50,30,37);"|'''INFANTRY'''
+| colspan="2" style="text-align: center; border-color: rgb(16,16,16); background: rgb(16,16,16);"|
+|-
+| style="text-align: center;  width: 220px; color: White; background: rgb(47,22,24);"|'''Prize'''
+| style="text-align: center;  width: 220px; color: White; background: rgb(47,22,24);"|'''Introduction Event'''
+| style="text-align: center;  width: 220px; color: White; background: rgb(47,22,24);"|'''Final Event'''
+|-
+| style="text-align: left; background: rgb(24,27,30); color: Tan;"|'''[[Viper ]]- Unique'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Desert Recon]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Hellstorm 2]]'''
+|}
+{| border="0" cellpadding="1" cellspacing="1" class="wikitable" style="width: 660px;"
+| style="text-align: center; color:tan; background: rgb(50,30,37);"|'''VEHICLES'''
+| colspan="2" style="text-align: center; border-color: rgb(16,16,16); background: rgb(16,16,16);"|
+|-
+| style="text-align: center;  width: 220px; color: White; background: rgb(47,22,24);"|'''Prize'''
+| style="text-align: center;  width: 220px; color: White; background: rgb(47,22,24);"|'''Introduction Event'''
+| style="text-align: center;  width: 220px; color: White; background: rgb(47,22,24);"|'''Final Event'''
+|-
+| style="text-align: left; background: rgb(24,27,30); color: Tan;"|'''[[BFG]] - Unique'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Cerberus 2]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Iron Lord]]'''
+|-
+| style="text-align: left; background: rgb(24,27,30); color: Tan;"|'''[[Crusader]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Undead Rising]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Red Storm (2014)]]'''
+|-
+| style="text-align: left; background: rgb(24,27,30); color: Tan;"|'''[[Flak Tank]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Rolling Thunder]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Floodgate]]'''
+|-
+| style="text-align: left; background: rgb(24,27,30); color: Tan;"|'''[[Honey Badger]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Rolling Thunder]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Floodgate]]'''
+|-
+| style="text-align: left; background: rgb(24,27,30); color: rgb(218,144,0);"|'''[[Elite Shock Tank|Shock Tank]] - Elite'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Front Line]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Floodgate 2]]'''
+|-
+| style="text-align: left; background: rgb(24,27,30); color: rgb(218,144,0);"|'''[[Elite Suicide Truck|Suicide Truck ]]- Elite'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Crossfire]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Floodgate 2]]'''
+|-
+| style="text-align: left; background: rgb(24,27,30); color: Tan;"|'''[[Widowmaker]] - Unique'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Deadpoint]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Floodgate]]'''
+|-
+| style="text-align: left; background: rgb(24,27,30); color: Tan;"|'''[[Widowmaker Prime]] - Unique'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Floodgate]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Cerberus 2]]'''
+|}
+{| border="0" cellpadding="1" cellspacing="1" class="wikitable" style="width: 660px;"
+| style="text-align: center; color:tan; background: rgb(50,30,37);"|'''EPIC TECH'''
+| colspan="2" style="text-align: center; border-color: rgb(16,16,16); background: rgb(16,16,16);"|
+|-
+| style="text-align: center;  width: 220px; color: White; background: rgb(47,22,24);"|'''Prize'''
+| style="text-align: center;  width: 220px; color: White; background: rgb(47,22,24);"|'''Introduction Event'''
+| style="text-align: center;  width: 220px; color: White; background: rgb(47,22,24);"|'''Final Event'''
+|-
+| style="text-align: left; background: rgb(24,27,30); color: Tan;"|'''[[Zombifier]]'''
+| style="text-align: center; background: rgb(39,27,30); color: Tan;"|'''[[Operation: Undead Rising]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Undead Rising]]'''
+|}
+{| border="0" cellpadding="1" cellspacing="1" class="wikitable" style="width: 660px;"
+| style="text-align: center; color:tan; background: rgb(50,30,37);"|'''BUILDINGS & TURRETS'''
+| colspan="2" style="text-align: center; border-color: rgb(16,16,16); background: rgb(16,16,16);"|
+|-
+| style="text-align: center;  width: 220px; color: White; background: rgb(47,22,24);"|'''Prize'''
+| style="text-align: center;  width: 220px; color: White; background: rgb(47,22,24);"|'''Introduction Event'''
+| style="text-align: center;  width: 220px; color: White; background: rgb(47,22,24);"|'''Final Event'''
+|-
+| style="text-align: left; background: rgb(24,27,30); color: Tan;"|'''[[Shock Turret]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Shockwave]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Hellstorm 2]]'''
+|}
+{| border="0" cellpadding="1" cellspacing="1" class="wikitable" style="width: 660px;"
+| style="text-align: center; color:tan; background: rgb(50,30,37);"|'''WAR TROPHY'''
+| colspan="2" style="text-align: center; border-color: rgb(16,16,16); background: rgb(16,16,16);"|
+|-
+| style="text-align: center;  width: 220px; color: White; background: rgb(47,22,24);"|'''Prize'''
+| style="text-align: center;  width: 220px; color: White; background: rgb(47,22,24);"|'''Introduction Event'''
+| style="text-align: center;  width: 220px; color: White; background: rgb(47,22,24);"|'''Final Event'''
+|-
+| style="text-align: left; background: rgb(24,27,30); color: Tan;"|'''[[Operation_Cerberus_Trophy|Cerberus Trophy]]'''
+| style="text-align: center; background: rgb(39,27,30); color: Tan;"|'''[[Operation: Cerberus]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Cerberus]]'''
+|-
+| style="text-align: left; background: rgb(24,27,30); color: Tan;"|'''[[Cerberus 2 Trophy]]'''
+| style="text-align: center; background: rgb(39,27,30); color: Tan;"|'''[[Operation: Cerberus 2]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Cerberus 2]]'''
+|-
+| style="text-align: left; background: rgb(24,27,30); color: Tan;"|'''[[Iron March Trophy]]'''
+| style="text-align: center; background: rgb(39,27,30); color: Tan;"|'''[[Operation: Iron March]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Iron March]]'''
+|-
+| style="text-align: left; background: rgb(24,27,30); color: Tan;"|'''[[Iron Reign Trophy]]'''
+| style="text-align: center; background: rgb(39,27,30); color: Tan;"|'''[[Operation: Iron Reign]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Iron Reign]]'''
+|-
+| style="text-align: left; background: rgb(24,27,30); color: Tan;"|'''[[Iron Lord Trophy]]'''
+| style="text-align: center; background: rgb(39,27,30); color: Tan;"|'''[[Operation: Iron Lord]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Iron Lord]]'''
+|-
+| style="text-align: left; background: rgb(24,27,30); color: Tan;"|'''[[Undead Swarm Trophy]]'''
+| style="text-align: center; background: rgb(39,27,30); color: Tan;"|'''[[Operation: Undead Swarm]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Undead Swarm]]'''
+|}
+{| border="0" cellpadding="1" cellspacing="1" class="wikitable" style="width: 660px;"
+| style="text-align: center; color:tan; background: rgb(50,30,37);"|'''MISC'''
+| colspan="2" style="text-align: center; border-color: rgb(16,16,16); background: rgb(16,16,16);"|
+|-
+| style="text-align: center;  width: 220px; color: White; background: rgb(47,22,24);"|'''Prize'''
+| style="text-align: center;  width: 220px; color: White; background: rgb(47,22,24);"|'''Introduction Event'''
+| style="text-align: center;  width: 220px; color: White; background: rgb(47,22,24);"|'''Final Event'''
+|-
+| style="text-align: left; background: rgb(24,27,30); color: Tan;"|'''[[R.U.B.I. Model]]'''
+| style="text-align: center; background: rgb(39,27,30); color: Tan;"|'''[[Operation: Red Sky]]'''
+| style="text-align: center; color: Tan;"|'''[[Operation: Red Sky]]'''
+|}
+
+==Event Shop Firsts==
+<div style="font-size:80%;">
+*<span style="color:rgb(81,149,106);"> FIRSTS - Pre Event Shop Creation</span> :
+**The first [[:Category:Special Event Prize|Event Prize]] to be offered was the[[ Gatling Truck]] during [[Rogue Assault]]. It was offered as a [[Wave Checkpoint Prize]].
+**The First [[Infantry]] Event Prize to be offered was the [[Attack Dog]] during [[Operation:Warhawk|Operation: Warhawk]].
+**The First[[ Aircraft]] Event Prize to be offered was the [[Warhawk]] during [[Operation:Warhawk|Operation: Warhawk]].
+**The First official [[:Category:Elite|Elite Unit]] to be offered was the [[Elite Warhawk]] during [[Operation:Warhawk|Operation: Warhawk]].
+**[[Operation:Warhawk|Operation: Warhawk]] was the first Event to use [[Event Experience Points|eXP]].
+
+*<span style="color:rgb(81,149,106);">FIRSTS - Post Event Shop Creation'</span>'' :''
+**[[Operation: Red Sky]] was the first to offer a [[Event Exclusive Prize]] : the [[R.U.B.I. Statue]].
+**[[Operation: Red Sky]] was the first to offer a Prize for a Player's position on the [[Event Leader Board]] : [[R.U.B.I. Statue]] for top 20 Players.
+**[[Operation: Red Sky]] was the first to offer Past Event Prizes. All previous prizes were offered in the Event Shop.
+**[[Operation: Red Sky]] was the first to re-release Past [[Wave Checkpoint Prizes]] as [[Event Experience Points|eXP]] Prizes.
+**[[Operation: Rolling Thunder]] was the first to Lock Prizes ( Hold ) that were introduced to the Event Shop in the previous [[Special Event|Event]].
+**[[Operation: Undead Harvest]] was the first to introduce a [[:Category:Turret|Turret]] with the release of the [[Plasma Turret|Plasma]] & [[Rocket Barrage Turret]]s.
+**[[Operation: Shockwave]] was the first 'to introduce a Prize to the Event Shop after the official start of the Event - [[Shock Tank]].
+**[[Operation: Red Swarm]] was the first to introduce a [[Buildings|Building]] to the Event Shop with release of the [[Drone Silo]].
+**[[Operation: Crossfire]] was the first to introduce [[:Category:Elite|Elite]] versions of Basic Units the Player already had in the [[Tech Center]] or[[ Academy]].  
+**[[Operation: Halcyon]] was the first to introduce a [[:Category:Schematics|Schematic]] to the to be used in the [[Workshop]] with the [[Gatling Truck Schematic]].
+**[[Operation: Deadpoint]] was the first to introduce a [[:Category:Unique Units|Unique Unit]] to the Event shop with release of the [[Widowmaker]].
+**[[Operation: Deadpoint]] was the first to introduce [[:Category:Schematics|Schematic Components]] to the to be used in the [[Workshop]].
+**[[Operation: Deadpoint]] was the first to some Past Event Prizes at a Discounted eXP Sale Price for duration of the Event.
+**[[Operation: Deadpoint 2]] was the first to offer a Prize as Last Chance prior to being removed from the Event Shop.
+**[[Operation: Desert Recon]] was the first to introduce an [[:Category:Epic Tech|Epic Tech]] Component with the release of the [[Warhead Launcher]].
+**[[Operation: Devil's Grip]] was the first to offer both New [[Wave Checkpoint Prize]]s & New eXP Prizes.
+**[[Operation: Devil's Grip]] was the first to offer an [[:Category:Epic Tech|Epic Tech]] Component as a [[Wave Checkpoint Prize]].
+**[[Operation: Devil's Grip]] was the first to put a [[:Category:Unique Units|Unique Unit]] on a Last Chance Sale - The [[Spectre]].
+**[[Operation: Red Storm (2014)]] was the first to offer Past Prizes as [[Wave Checkpoint Prize]]s.
+**[[Operation: Hellstorm 2]] was the first to offer an [[Event Exclusive Prize]] that was not a Limited Recipient Award.
+**[[Operation: Floodgate]] was the first to offer a [[:Category:Unique Units|Unique Unit]] as a [[Wave Checkpoint Prize]]s - The [[Widowmaker Prime]].
+**[[Operation: Cerberus]] was the first to offer only [[Wave Checkpoint Prize]] as new prizes. <small>( Since the creation of the Event Shop )</small>
+**[[Operation: Cerberus]] was the first to offer[[ War Trophy]] as a prize.
+**[[Operation: Iron March]] was the first to offer prize Units in a New [[Portal:Units|Unit]] category: [[:Category:Mercenary_Mech|Mercenary Mech]].
+**[[Operation: Iron Reign]] was the first to offer a[[:Category:Commander_Unit| Commander Unit]] as a prize - The[[ Vanquisher Commander]].
+**[[Operation: Iron Lord]] was the first to have a Last Chance prize offered as a [[Wave Checkpoint Prize]]s - The [[BFG]].
+**[[Operation: Iron Lord]] was the first to off a [[:Category:Limited_Tech|Limited Tech]] schematic component as a prize.
+
+==Event Shop Records==
+*<span style="color:rgb(81,149,106);">RECORDS - Pre & Post Event Shop Creation</span> :
+**<span style="color:rgb(168, 168, 75);">''The Most New Prizes Introduced In A Single Special Event''</span> : [[Operation: Iron March]] with 8.
+**<span style="color:rgb(168, 168, 75);">''Fewest New Prizes Introduced In A Single Special Event''</span> * : [[Operation: Red Sky]] with 1.
+**<span style="color:rgb(168, 168, 75);">''Most Sale Prizes in one Event <small>( WCP & eXP / Last Chance not included )</small>''</span> : [[Operation: Iron Lord]] with 13.
+**<span style="color:rgb(168, 168, 75);">''Most Sale Prizes in one Event <small>( eXP Only / Last Chance not included )</small>''</span> : [[Operation: Iron Lord]] with 10.
+**<span style="color:rgb(168, 168, 75);">''Most Sale Prizes in one Event <small>( WCP Only / Last Chance not included )</small>''</span> : [[Operation: Cerberus ]]with 6
+**<span style="color:rgb(168, 168, 75);">''Most Last Chance Prizes in one Event''</span> : [[Operation: Floodgate]] with 5.
+:<small>(&nbsp;&nbsp;*&nbsp;Since the creation of the Event Shop&nbsp;&nbsp;)</small>
+</div>
+
+<div style="text-align:left; font-size:85%;">
+==Additional Info==
+*The Event Shop was introduced in [[Operation: Red Sky|Operation: Red Sky.]]
+*The [[Event Experience Points|Event Experience Points ( eXP )]] structure was changed in [[Operation: Hellstorm]] which raise all the costs of the prizes but also gave more eXP during the [[Special Event|Events]].
+*Changes made to the Event Shop during [[Operation: Deadpoint]] split it into to windows showing ''Unowned & Owned'' Event Units.
+
+*The [[Elite Mortar Team]] has so far followed a unique road to becoming a Standard Prize in the Event Shop :
+**Introduced as a [[Wave Checkpoint Prize]] ( Wave 15 ) in [[Operation: Floodgate 2]].
+**Held out of the Event Shop for [[Operation: Cerberus]].
+**Returned to the Event Shop as a [[Wave Checkpoint Prize]] ( Wave 16 ) in [[Operation: Cerberus 2]].
+**Permanently returned to the Event Shop as a non sale eXP Prize ( 6,500 xp ) in [[Operation: Iron March]].
+*The[[ Laser Cannons]] history in the Event Shop :
+**Introduced into the Event Shop as a [[Wave Checkpoint Prize]] ( Wave 51 ) during [[Operation: Floodgate 2]].
+**Withheld from the Event Shop for[[ Operation: Cerberus]].
+**Returned to the Evnt Shop as a [[Wave Checkpoint Prize]] ( Wave 51 ) during [[Operation: Cerberus 2]].
+**Withheld again form the Event Shop as of [[Operation: Iron March]].
+*The [[Laser Cannons]] are the only [[:Category:Epic Tech|Epic Tech]] that was originally offered as a [[Wave Checkpoint Prize]] to ever make a reappearance in the [[Event Shop]] albeit for only 1 additional [[Special Event]].
+
+==Related Pages==
+*[[Special Event]]
+*[[:Category:Unavailable|Unavailable Items&nbsp; ]]- ( Removed from Event Shop )
+</div>
+
+==Gallery==
+{{Gallery - Resize Notice}}
+<gallery widths="180" orientation="none" captionalign="center" captionsize="small" position="center" bordercolor="transparent" captiontextcolor="#8e8e8e">
+RedSky-Event Shop.png|The First Event Shop<br/>Operation: Red Sky
+EventBoxExamples.png|Examples of Special Event Boxes
+UseItOrLoseIt-Examples.png|Examples of Use It Or Lose It Boxes
+NewPrizes-1.jpg|Example of New Prizes (1 with Requirements / 1 without )
+PrizesUnlocked-1.jpg|Example of Unlocked Prizes
+PrizesUnavailable-1.jpg|Example of Prizes Unavailable for that Event
+EventShop-SinglePrizeDescription.png|Prize Description and Purchase Box
+Hellstorm Unlocked.png|Example of Unlocked or Purchased Notice
+BirthOfElites (2).jpg|The Birth of the Elites
+Congratulations, Commander! You have unlocked every event prize..jpg|All Prizes Have Been Unlock!
+</gallery>
+
+==Navigation==
+{{Event}}
+{{Game Features}}
